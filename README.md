@@ -1,5 +1,4 @@
 # Полезные материалы
 
 [Датасет для парковки](http://cnrpark.it/)
-
-https://lafi.github.io/LPN/
+[Датасет для парковки №2 (актуал)](https://lafi.github.io/LPN/)
